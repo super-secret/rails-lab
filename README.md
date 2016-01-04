@@ -1,9 +1,19 @@
-# Welcome to GA's WDI-DC
-General Assembly's Web Development Immersive Course in the District of Columbia
+# Before You Start...
 
-## Conventions:
-- Each week has its own directory with a readme.md
-- Each week's readme contains an overview of week, including Learning Objectives.
-- Each lesson has its own directory (within the week). The lesson's readme.md contains the Lesson Plan.
+[A quiz!](https://wdidc6.typeform.com/to/KAc9sO)
 
-This is published to https://ga-dc.github.io/curriculum/
+# Continue to work on Scribblr!
+
+This is now due at 5:00pm today.
+
+OR, start taking a stab at...
+
+# Pinspiration
+
+For this week's lab you and a partner will be creating Pinspiration, an idea-sharing platform that functions just like [this little website](https://www.pinterest.com/)!
+
+https://github.com/ga-dc/pinspiration
+
+# Homework
+
+https://github.com/ga-dc/chill_out
